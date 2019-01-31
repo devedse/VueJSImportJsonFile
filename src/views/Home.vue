@@ -9,6 +9,8 @@
 import Vue from 'vue';
 import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
 
+import theJson from '@/assets/hi.json';
+
 export default Vue.extend({
   name: 'home',
   components: {
