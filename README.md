@@ -1,5 +1,10 @@
 # vuejsimportjsonfile
 
+This project was created to reproduce the issue where I can't import JSON in VueJS + Typescript:
+
+![The Error Image](TheError.png "The Error")
+
+
 ## Project setup
 ```
 npm install
