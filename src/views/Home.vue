@@ -16,5 +16,9 @@ export default Vue.extend({
   components: {
     HelloWorld,
   },
+  async mounted() {
+    console.log('HOII');
+    console.log(theJson);
+  },
 });
 </script>

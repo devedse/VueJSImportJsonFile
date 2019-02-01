@@ -4,6 +4,7 @@ This project was created to reproduce the issue where I can't import JSON in Vue
 
 ![The Error Image](TheError.png "The Error")
 
+![The Error Image2](TheError2.png "The Error2")
 
 ## Project setup
 ```
